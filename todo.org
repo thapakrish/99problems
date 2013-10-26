@@ -1,0 +1,14 @@
+
+* Testing
+- [ ] use qcheck for testing
+- [ ] remove earlier testing files
+- [X] Use compilation manager
+- [ ] use smackage?
+
+* CM files
+- [ ] CM for test cases
+- [X] CM.make "lists.cm"  
+- [X] PrologLists.last_item [1,2,3] = SOME 3
+
+* Random
+- [X] Fix the issue with random in lists.sml
