@@ -1,0 +1,1 @@
+Attempting to solve 99 prolog in SML, with minimal use of library functions. Problems are from https://sites.google.com/site/prologsite/prolog-problems/1
